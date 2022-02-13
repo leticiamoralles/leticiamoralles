@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
- ⚒️ Experiências: <strong>Power BI,DAX,SQL,PostgreSQL,Pentaho,ETL,Python</strong>
+ ⚒️ Experiências: <strong>Power BI, DAX, SQL, PostgreSQL, Pentaho, ETL, Python</strong>
 </p>
 
 <p align="left">
